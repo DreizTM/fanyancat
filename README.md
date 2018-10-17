@@ -1,5 +1,3 @@
-# fanyancat
-ejemplo de pagina
 <! DOCTYPE html>
 < html >
 
